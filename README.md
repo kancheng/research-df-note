@@ -91,6 +91,14 @@ For example, experimental results show that by adding our trained perturbations,
 
 - https://openaccess.thecvf.com/content/ICCV2021/papers/Cozzolino_ID-Reveal_Identity-Aware_DeepFake_Video_Detection_ICCV_2021_paper.pdf
 
+## ECCV
+
+1. SeqDeepFake: Detecting and Recovering Sequential DeepFake Manipulation
+
+- https://github.com/rshaojimmy/SeqDeepFake
+
+- https://arxiv.org/pdf/2207.02204.pdf
+
 
 # Links
 
