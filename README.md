@@ -1,5 +1,6 @@
 # research-df-note
 
+- https://github.com/kancheng/kan-cs-report-in-2022/tree/main/DMSASD/final
 
 ## Details
 
@@ -66,7 +67,9 @@ For example, experimental results show that by adding our trained perturbations,
 
 ```
 
+3. Two-branch Recurrent Network for Isolating Deepfakes in Videos
 
+- https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520647.pdf
 
 
 ## CVPR
@@ -82,6 +85,27 @@ For example, experimental results show that by adding our trained perturbations,
 - https://www.cvmart.net/community/detail/6124
 
 
+## ICCV
+
+1. ID-Reveal: Identity-Aware DeepFake Video Detection
+
+- https://openaccess.thecvf.com/content/ICCV2021/papers/Cozzolino_ID-Reveal_Identity-Aware_DeepFake_Video_Detection_ICCV_2021_paper.pdf
+
+
+# Links
+
 ## kaggle
 
 - https://www.kaggle.com/c/deepfake-detection-challenge
+
+## zhihu
+
+1. Deepfake detection文章总结 : 
+
+- https://zhuanlan.zhihu.com/p/115070797
+
+- https://zhuanlan.zhihu.com/p/376972313
+
+- https://zhuanlan.zhihu.com/p/378829258
+
+
