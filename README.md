@@ -2,6 +2,10 @@
 
 - https://github.com/kancheng/kan-cs-report-in-2022/tree/main/DMSASD/final
 
+```
+ICIP, ICASSP, BMVC
+```
+
 ## Details
 
 1. https://github.com/bharat-b7/IPNet
